@@ -64,6 +64,13 @@ Create one R script called ``run_analysis.R`` that does the following:
 - 'train/subject_train.txt': The subject who performed the activity for each train window sample.
 - 'test/subject_test.txt': The subject who performed the activity for each test window sample.
 
+## The files produced during the course project are
+
+- 'README.md'
+- 'run_analysis.R' - the script that produces tidy data set "outcome"
+- 'CodeBook.md' - the code book for the "outcome" data set
+- 'oucome_course_project.txt' - the outcome data set itself
+
 ## The steps of the run_analysis.R scipt
 
 1. **Read** all the files we need into different variables:
